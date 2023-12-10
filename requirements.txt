@@ -4,6 +4,7 @@ numpy
 seaborn 
 ipykernel
 -e .
+Flask 
 
 
 
