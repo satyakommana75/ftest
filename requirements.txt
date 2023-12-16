@@ -1,10 +1,10 @@
-pandas
+pandas 
 scikit-learn
 numpy
 seaborn 
 ipykernel
 -e .
-Flask 
+Flask ## very important
 
 
 
