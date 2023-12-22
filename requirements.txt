@@ -4,7 +4,10 @@ numpy
 seaborn 
 ipykernel
 -e .
-Flask ## very important
+Flask
+mlflow==2.2.2
+dvc
+
 
 
 
